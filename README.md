@@ -28,7 +28,8 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://streak-stats.demolab.com/?user=AlyneRezende&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
 ## Repositórios Relevantes
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AlyneRezende&repo=projeto-detona-ralph&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/SEUUSERNAME/SEUREPOSITORIO)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AlyneRezende&repo=projeto-social&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/SEUUSERNAME/SEUREPOSITORIO)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AlyneRezende&repo=projeto-cordel&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/SEUUSERNAME/SEUREPOSITORIO)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AlyneRezende&repo=projeto-jogo-de-memoria&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/SEUUSERNAME/SEUREPOSITORIO)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AlyneRezende&repo=site_gamesshop&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/SEUUSERNAME/SEUREPOSITORIO)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AlyneRezende&repo=projeto-agenda-telefonica&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/SEUUSERNAME/SEUREPOSITORIO)
+
