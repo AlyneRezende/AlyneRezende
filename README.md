@@ -29,7 +29,8 @@ Here are some ideas to get you started:
 
 ## Relevant Repositories
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AlyneRezende&repo=projeto-detona-ralph&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/SEUUSERNAME/SEUREPOSITORIO)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AlyneRezende&repo=projeto-social&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/SEUUSERNAME/SEUREPOSITORIO)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AlyneRezende&repo=pokemonAPI&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/SEUUSERNAME/SEUREPOSITORIO)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AlyneRezende&repo=projeto-jogo-de-memoria&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/SEUUSERNAME/SEUREPOSITORIO)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AlyneRezende&repo=site_gamesshop&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/SEUUSERNAME/SEUREPOSITORIO)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AlyneRezende&repo=yu-gi-oh-card-game&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/SEUUSERNAME/SEUREPOSITORIO)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AlyneRezende&repo=piano-project&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/SEUUSERNAME/SEUREPOSITORIO)
 
